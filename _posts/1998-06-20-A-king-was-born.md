@@ -1,7 +1,7 @@
 ---
-layout:
-Date: 1998-06-20
+Layout:
 Title: Simba
+date: 1998-06-20
 Categories:
 ---
 
